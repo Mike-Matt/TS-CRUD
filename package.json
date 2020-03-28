@@ -1,0 +1,22 @@
+{
+  "name": "ts-crud",
+  "version": "1.0.0",
+  "description": "ts to-do list - front-end - API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mike-Matt/TS-CRUD.git"
+  },
+  "keywords": [
+    "TypeScript"
+  ],
+  "author": "Matt Yee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mike-Matt/TS-CRUD/issues"
+  },
+  "homepage": "https://github.com/Mike-Matt/TS-CRUD#readme"
+}
