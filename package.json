@@ -18,5 +18,18 @@
   "bugs": {
     "url": "https://github.com/Mike-Matt/TS-CRUD/issues"
   },
-  "homepage": "https://github.com/Mike-Matt/TS-CRUD#readme"
+  "homepage": "https://github.com/Mike-Matt/TS-CRUD#readme",
+  "dependencies": {
+    "@types/express": "^4.17.3",
+    "@types/node": "^13.9.5",
+    "@types/react": "^16.9.27",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "typescript": "^3.8.3",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  }
 }
